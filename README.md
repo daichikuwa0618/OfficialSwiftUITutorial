@@ -6,13 +6,13 @@
 
 ### Screenshots
 
-| Features view | List view | Profile view |
-| -- | -- | -- |
-|<video width="300" src="https://user-images.githubusercontent.com/31601805/111311040-15e33300-86a1-11eb-8592-a2f8f195c996.mov">|<video width="300" src="https://user-images.githubusercontent.com/31601805/111311211-4925c200-86a1-11eb-8b35-b51d4d5ff128.mov">|<video width="300" src="https://user-images.githubusercontent.com/31601805/111311445-97d35c00-86a1-11eb-8a8b-95bdc38f1ec4.mov">|
+| Features view | List view | Detail view | Profile view |
+| -- | -- | -- | -- |
+| <img width="300" src="https://user-images.githubusercontent.com/31601805/111315853-1f22ce80-86a6-11eb-9b23-69445284184c.gif"> | <img width="300" src="https://user-images.githubusercontent.com/31601805/111315878-221dbf00-86a6-11eb-8134-4be0cfbd206f.gif"> | <img width="300" src="https://user-images.githubusercontent.com/31601805/111315915-2a75fa00-86a6-11eb-92e7-56d67829d6d2.gif"> | <img width="300" src="https://user-images.githubusercontent.com/31601805/111315898-26e27300-86a6-11eb-9625-d6cef34cff18.gif"> |
 
 | watchOS | macOS |
 |--|--|
-|<video width="300" src="https://user-images.githubusercontent.com/31601805/111312004-33fd6300-86a2-11eb-8e88-8760537f3018.mov">|<img width="500" alt="macOS" src="https://user-images.githubusercontent.com/31601805/111311902-17612b00-86a2-11eb-9c3b-cc19f797a347.png">|
+|<img width="240" src="https://user-images.githubusercontent.com/31601805/111314280-97889000-86a4-11eb-9f3d-f4fc11f2df56.gif">|<img width="400" alt="macOS" src="https://user-images.githubusercontent.com/31601805/111311902-17612b00-86a2-11eb-9c3b-cc19f797a347.png">|
 
 ## Features
 
